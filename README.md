@@ -65,7 +65,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://math-magicians121.netlify.app/)
+- [Live Demo Link](https://yourmathmagician.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -87,7 +87,7 @@ Clone this repository to your desired folder:
 2. Navigate to the directory where you want clone the copy of this repository
 3. Create new directory [optional]
 4. Clone the repo using the below command
- > git clone https://github.com/Rhaegar121/Math-Magicians.git
+ > git clone  https://github.com/Sunil-Coding-World/Mathmagician
 5. Alternatively, you can download the zip file of your project by clicking on the Code button on the right side of your project page and clicking on Download ZIP
 
 ### Install
@@ -110,7 +110,6 @@ It correctly bundles React in production mode and optimizes the build for the be
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ### Usage
 
@@ -127,18 +126,12 @@ This project can be used to learn and practice basics of React.js. Specifically;
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Kaung Myat Kyaw**
+👤 **Sunil kumar dondey**
 
-- Portfolio: [rhbarry.me](https://rhbarry.me)
-- GitHub: [Rhaegar121](https://github.com/Rhaegar121)
-- Twitter: [Rhaegar121](https://twitter.com/Rhaegar121)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/kaungmyatkyaw/)
+- Portfolio: [sunil's portfolio.me](https://sunil-s-portfolio.vercel.app/)
+- GitHub: [sunil-coding-world](https://github.com/Sunil-Coding-World/)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/sunil-dondey-b8990518b/)
 
-👤**Chukwuemeka Ochuba**
-
-- GitHub: [@Donmark2k](https://github.com/Donmark2k)
-- Twitter: [@Donmark2k](https://twitter.com/donmark2k)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/chukwuemeka-ochuba/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
